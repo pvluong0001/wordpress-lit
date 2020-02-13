@@ -1,0 +1,13 @@
+.codeblock {
+    background: #000;
+    color: lawngreen;
+    padding: 10px 5px;
+    margin-bottom: 15px;
+}
+
+.highlight {
+    background: #FEB94F;
+    border-radius: 4px;
+    padding: 4px;
+    display: inline-block;
+}
